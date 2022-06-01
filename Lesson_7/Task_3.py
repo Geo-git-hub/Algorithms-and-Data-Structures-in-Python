@@ -11,7 +11,6 @@ import statistics
 
 m = random.randint(0, 10)
 size = 2 * m + 1
-dict_count_el = {}
 
 lst = [random.randint(0, 100) for i in range(size)]
 print(lst)
